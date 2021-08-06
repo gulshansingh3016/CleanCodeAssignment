@@ -1,0 +1,11 @@
+1.As the program prints the highest and smallest number, so I name the class class
+PrintHighestLowestValue.
+2. Class C contains two declared variables a and b through which the largest and
+smallest value is print, so the class name given is class OutputParameter and
+variables a and b names changes to lowest and highest respectively.
+3. Code inside Func1() function finds the lowest and highest so the name of the function
+findHighestLowest.
+4. n variable is for size of array so its name is sizeOfArray.
+5. Int i is taken for index therefore its name change to index.
+6. In a main method the int arr[] contains the input value and s is the size of the array so we name
+it inputArray and size respectively.
